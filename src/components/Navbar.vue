@@ -19,9 +19,7 @@
             <li class="nav-item" @click="navberClose">
               <router-link class="nav-link font-weight-bold fz-4 fz-lg-6 p-3" to="/works">Works</router-link>
             </li>
-            <li class="nav-item" @click="navberClose">
-              <router-link class="nav-link font-weight-bold fz-4 fz-lg-6 p-3" to="/blog">Blog</router-link>
-            </li>
+
             <li class="nav-item" @click="navberClose">
               <router-link class="nav-link font-weight-bold fz-4 fz-lg-6 p-3" to="/contact">Contact</router-link>
             </li>

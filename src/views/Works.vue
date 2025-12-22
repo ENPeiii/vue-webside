@@ -20,15 +20,6 @@
               </HoverCard>
             </div>
           </li>
-          <!--<li class="col-md-6 col-lg-4 py-2">
-            <div @click="modelContent('vueCli',1)" data-toggle="modal" data-target=".bd-example-modal-xl">
-              <HoverCard>
-                <img src="../assets/works/test.jpg" alt="" slot="cardImg" class="card-img">
-                <template slot="cardTitle">這是標題喔</template>
-                <template slot="cardText">這是介紹</template>
-              </HoverCard>
-            </div>
-          </li>-->
         </ul>
       </div>
       <!--大型官網-->

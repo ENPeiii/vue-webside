@@ -3,7 +3,7 @@
     {
       "title": "個人網站",
       "imgName": "webside",
-      "link": "https://enpei1o.github.io/vue-webside/dist/index.html#/",
+      "link": "https://enpei1o.github.io/vue-webside/dist/#/",
       "introduction": "使用Vue Cli3 + Vue Router 整合製作SPA網頁",
       "responsible": "獨力完成",
       "tag": [

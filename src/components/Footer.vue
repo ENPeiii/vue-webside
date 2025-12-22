@@ -20,11 +20,6 @@
             </router-link>
           </li>
           <li>
-            <router-link class="nav-link font-weight-bold text-dark text-center text-md-left" to="/blog">
-             <i class="fab fa-medium"></i> Blog 部落格
-            </router-link>
-          </li>
-          <li>
             <router-link class="nav-link font-weight-bold text-dark text-center text-md-left" to="/contact">
              <i class="fas fa-edit"></i> Contact 聯絡方式
             </router-link>
