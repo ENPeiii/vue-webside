@@ -5,7 +5,7 @@
       "imgName": "webside",
       "link": "https://enpei1o.github.io/vue-webside/dist/#/",
       "introduction": "使用Vue Cli3 + Vue Router 整合製作SPA網頁",
-      "responsible": "獨力完成",
+      "responsible": "獨立完成",
       "tag": [
         "vue-cli3",
         "vue-router",
@@ -20,7 +20,7 @@
       "imgName": "test",
       "link": "https://www.youtube.com/",
       "introduction": "使用Vue Cli3 + Vue Router 整合製作SPA網頁",
-      "responsible": "獨力完成",
+      "responsible": "獨立完成",
       "tag": [
         "vue-cli3",
         "vue-router",
@@ -105,7 +105,7 @@
       "imgName": "suqqu",
       "link": "https://event01.suqqu.com.tw/2020christmas/",
       "introduction": "一頁式RWD活動網站",
-      "responsible": "獨力完成",
+      "responsible": "獨立完成",
       "tag": [
         "RWD",
         "OOCSS",
@@ -119,7 +119,7 @@
       "imgName": "light_up",
       "link": "#",
       "introduction": "一頁式RWD活動網站，透過視差動畫增加互動效果",
-      "responsible": "獨力完成",
+      "responsible": "獨立完成",
       "tag": [
         "RWD",
         "OOCSS",
